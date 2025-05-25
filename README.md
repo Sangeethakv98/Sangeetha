@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangeetha</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Specialist</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-k-v)
 
 ---
 
