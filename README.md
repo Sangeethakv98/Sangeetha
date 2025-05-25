@@ -1,54 +1,31 @@
-<h1 align="center">Hi 👋, I'm Sangeetha</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-k-v)
+### <samp>&gt; Hi there, I'm Sangeetha </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-k-v/)
 
-🔧 **Tech Stack & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### Glad to see you here! &nbsp;
 
----
 
-💼 **About Me**
-- 💻 I specialize in designing, deploying, and managing scalable cloud infrastructure.
-- 🚀 Passionate about automation, CI/CD, and infrastructure as code.
-- 🌐 Working with tools like Terraform, Ansible, Docker, Kubernetes, and AWS.
-- 👯 Open to collaborating on DevOps projects and building reusable automation tools.
-- 📫 Reach me at: **sangeethagowdakv@gmail.com**
+As a DevOps Engineer, I obsess over streamlining workflows, eliminating toil, and bridging the gap between development and operations. I thrive on building systems that scale seamlessly, deploy reliably, and secure proactively.
 
----
 
-🛠️ **Featured Projects**
+🐳 Docker | ⚓ Kubernetes | ⚙️ Jenkins | ☁️ AWS | 🧱 Terraform |
+📊 Prometheus/Grafana | 🐍 Python | 🌿 Git | 🛡️ Trivy/OWASP
 
-- 🔧 [**CI/CD Pipeline with Jenkins and Docker**](https://github.com/yourusername/jenkins-docker-ci-cd)  
-  *Automated pipeline setup using Jenkins, Docker, and GitHub Actions.*
+Why DevOps?    
+Because "it works on my machine" isn’t good enough. I design systems that just work—anywhere, anytime.
 
-- 🌩️ [**Terraform AWS Infrastructure**](https://github.com/yourusername/terraform-aws-infra)  
-  *Provisioned scalable AWS infrastructure using Terraform modules.*
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
 
-- ☸️ [**Kubernetes Deployment Examples**](https://github.com/yourusername/k8s-deployments)  
-  *Sample manifests for managing microservices in Kubernetes.*
+**✨ PlayBook Highlights**
 
----
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;**"Abracadabra, Deploy Faster!"**: Slashed deployment time by 20% with Jenkins pipelines and Dockerized magic.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;**"Kubernetes Jedi Moves"**: Tamed wild clusters, slashed downtime, and taught pods to self-heal.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;**"Terraform Sorcery"**: Conjured AWS EC2, EKS, and VPCs out of thin IaC (Infrastructure as Code).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;**"Security Shield Charm"**: Embedded Trivy + SonarQube into pipelines—because vulnerabilities fear proactive wizards.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;**"Git Harmony"**: Orchestrated team symphonies with Git, boosting collaboration by 30%. No merge conflicts, just pure rhythm.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about DevOps, I am happy to help
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: vinodachar985@gmail.com
 
-📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark" />
-</p>
-
----
-
-📫 **Connect With Me**
-- 💼 www.linkedin.com/in/sangeetha-k-v
+</br>
